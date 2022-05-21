@@ -12,6 +12,9 @@ ngrok config add-authtoken 29T4pfcfpV1NCo8s2qlH189b7Rs_K53XcBiiSvuRMRxdD2Wk
 to run a HTTP port:--
 ngrok http 80
 
+Example for global url:--
+https://54e0-223-226-155-120.in.ngrok.io
+
 download and run ngrok
 
 https://ngrok.com/download
